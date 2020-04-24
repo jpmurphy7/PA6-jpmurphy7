@@ -1,0 +1,14 @@
+C:\Users\16108\Source\Repos\PA6\PA6\bin\Debug\PA6.exe.config
+C:\Users\16108\Source\Repos\PA6\PA6\bin\Debug\PA6.exe
+C:\Users\16108\Source\Repos\PA6\PA6\bin\Debug\PA6.pdb
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.csprojAssemblyReference.cache
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.Form1.resources
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.Properties.Resources.resources
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.csproj.GenerateResource.cache
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.exe
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.pdb
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.frmMain.resources
+C:\Users\16108\Source\Repos\PA6\PA6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\16108\Source\Repos\PA6\PA6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.csproj.CopyComplete
+C:\Users\16108\Source\Repos\PA6\PA6\obj\Debug\PA6.frmEdit.resources
